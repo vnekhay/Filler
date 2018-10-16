@@ -10,5 +10,5 @@ To start - use make; and write this:
 
 -p2 ./resources/players/carli.filler"
 
-To add some visual add "| ./SomeVisual" at the end.
+To add some visual use make visual; and add "| ./SomeVisual" at the end.
 ```
