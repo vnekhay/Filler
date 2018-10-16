@@ -13,4 +13,4 @@ To start - use make; and write this:
 To add some visual use make visual; and add "| ./SomeVisual" at the end.
 ```
 # inAction
-![](https://raw.githubusercontent.com/vnekhay/Wolf3d/master/Wolf_gif.gif)
+![](https://raw.githubusercontent.com/vnekhay/Filler/master/Filler_gif.gif)
